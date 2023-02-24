@@ -1,1 +1,1 @@
-# osTicket---Ticket-Lifecycle
+# osTicket-Ticket-Lifecycle
